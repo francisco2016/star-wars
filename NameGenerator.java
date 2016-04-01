@@ -19,7 +19,7 @@ public class NameGenerator
     {
        
     }
-
+    
     /**
      * 
      */
@@ -29,6 +29,7 @@ public class NameGenerator
             " " +apellido2.substring(AP,APELLIDO_2)+lugarN.toLowerCase().substring(AP,LUGAR_N));
         
     }
+    
 }
 
 
